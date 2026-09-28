@@ -36,16 +36,16 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#05050230"
+            "#00000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0d0d0440"
+            "#00000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#14140650"
+            "#00000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#05050240"
+            "#00000000"
         ],
         "BACKGROUND_ACCENT": [
             "#a1620780"
@@ -54,13 +54,13 @@
             "#0d0d04d0"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#05050220"
+            "#00000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0d0d0430"
+            "#00000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0d0d0440"
+            "#00000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#a1620765"
@@ -84,7 +84,7 @@
             "#fef08a"
         ],
         "CHAT_BACKGROUND": [
-            "#05050220"
+            "#00000000"
         ],
         "CHANNELS_DEFAULT": [
             "#fef08a"
@@ -99,11 +99,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#fef08a",
         "PRIMARY_500": "#eab308",
-        "PRIMARY_600": "#050502",
-        "PRIMARY_630": "#050502",
-        "PRIMARY_660": "#050502",
-        "PRIMARY_700": "#050502",
-        "PRIMARY_800": "#050502",
+        "PRIMARY_600": "#00000000",
+        "PRIMARY_630": "#00000000",
+        "PRIMARY_660": "#00000000",
+        "PRIMARY_700": "#00000000",
+        "PRIMARY_800": "#00000000",
         "BRAND_260": "#eab308",
         "BRAND_360": "#eab308",
         "BRAND_500": "#ca8a04",
@@ -120,7 +120,7 @@
     "spec": 2,
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1540730229369212998/1554094476354396160/ezgif-65ca6c1861e7c589.gif?ex=6abba2c4&is=6aba5144&hm=6b56f27d84060dc8435abc789d0e49026985f5eba469ab37502cb237c4388edc&",
-        "alpha": 0.85,
+        "alpha": 1,
         "color": "#050502"
     }
 }
