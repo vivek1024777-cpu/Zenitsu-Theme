@@ -1,0 +1,126 @@
+{
+    "name": "Zenitsu Animated",
+    "description": "Zenitsu animated yellow theme",
+    "authors": [
+        {
+            "name": "Vivek",
+            "id": "0"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#eab308"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#fef08a"
+        ],
+        "TEXT_LINK": [
+            "#eab308"
+        ],
+        "TEXT_DANGER": [
+            "#eab308"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#05050230"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0d0d0440"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#14140650"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#05050240"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#a1620780"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0d0d04d0"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#05050220"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#0d0d0430"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#0d0d0440"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#a1620765"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#14140680"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#a1620780"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#14140660"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#050502"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#fef08a"
+        ],
+        "CHAT_BACKGROUND": [
+            "#05050220"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#fef08a"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#fef08a",
+        "PRIMARY_500": "#eab308",
+        "PRIMARY_600": "#050502",
+        "PRIMARY_630": "#050502",
+        "PRIMARY_660": "#050502",
+        "PRIMARY_700": "#050502",
+        "PRIMARY_800": "#050502",
+        "BRAND_260": "#eab308",
+        "BRAND_360": "#eab308",
+        "BRAND_500": "#ca8a04",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#eab308",
+        "YELLOW_300": "#eab308",
+        "ORANGE_345": "#eab308",
+        "GREEN_345": "#eab308",
+        "GREEN_360": "#eab308",
+        "RED_560": "#eab308",
+        "RED_400": "#eab308"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1540730229369212998/1554094476354396160/ezgif-65ca6c1861e7c589.gif?ex=6abba2c4&is=6aba5144&hm=6b56f27d84060dc8435abc789d0e49026985f5eba469ab37502cb237c4388edc&",
+        "alpha": 0.85,
+        "color": "#050502"
+    }
+}
